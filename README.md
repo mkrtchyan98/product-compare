@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+you can find demo in React-Shop repository
+
 ## Available Scripts
 
 In the project directory, you can run:
